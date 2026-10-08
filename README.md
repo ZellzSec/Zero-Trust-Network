@@ -44,6 +44,8 @@ The overall objective is to gain hands-on experience with network security, fire
 
 ## Steps
  *Reference 1 created multiple VLANS for Guest, IoT, Cameras, Lab, etc. Also changed Unifi Allow All approach to Block All to better align with Zero Trust. <img width="1302" height="324" alt="Screenshot 2026-10-08 131356" src="https://github.com/user-attachments/assets/95d7b0d0-b0c6-4990-af12-96ee1577d7c2" />
+ *Reference 2 Created 3 different SSID's for main trusted network, guest, and Iot. <img width="1341" height="216" alt="Screenshot 2026-10-08 132302" src="https://github.com/user-attachments/assets/a54ae8d2-2f70-4105-b64f-5489dd4c090e" />
+
 
 
 
