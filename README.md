@@ -43,7 +43,8 @@ The overall objective is to gain hands-on experience with network security, fire
 - Wireshark
 
 ## Steps
- *Reference 1 created multiple VLANS for Guest, IoT, Cameras, Lab. <img width="1320" height="286" alt="Screenshot 2026-10-08 130537" src="https://github.com/user-attachments/assets/82b1b70d-74bf-4a5c-a903-d7bae1f31271" />
+ *Reference 1 created multiple VLANS for Guest, IoT, Cameras, Lab, etc. Also changed Unifi Allow All approach to Block All to better align with Zero Trust. <img width="1302" height="324" alt="Screenshot 2026-10-08 131356" src="https://github.com/user-attachments/assets/95d7b0d0-b0c6-4990-af12-96ee1577d7c2" />
+
 
 
 
